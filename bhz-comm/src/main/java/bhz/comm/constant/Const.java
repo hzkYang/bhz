@@ -89,7 +89,7 @@ public final class Const {
     public static final String REQ_CUR_ROLE_CODE = "CUR_ROLE_CODE";
     
     
-    
+    public static final String SYS_INIT = "SYS_INIT";
     
     
     

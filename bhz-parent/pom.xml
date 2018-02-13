@@ -484,6 +484,13 @@
 			<artifactId>mybatis-ehcache</artifactId> 
 			<version>1.0.0</version>
 		</dependency>
+		
+		<!-- fastdfs -->
+		<dependency>
+			<groupId>org.csource</groupId>
+			<artifactId>fastdfs-client-java</artifactId>
+			<version>1.27</version>
+		</dependency>
   </dependencies>
   <build>
     <finalName>bhz-parent</finalName>
